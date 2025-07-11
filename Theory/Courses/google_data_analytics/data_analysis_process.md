@@ -1,6 +1,6 @@
 ## 📊 The 6-Step Data Analysis Process
 
-![6-step data analysis process diagram showing ask, prepare, process, analyse, share, act](./images/data_analysis_6_steps.png)
+![6-step data analysis process diagram showing ask, prepare, process, analyse, share, act](./Images/data_analysis_6_steps.png)
 
 This diagram illustrates the typical steps:
 1. **Ask**
